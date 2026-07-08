@@ -1,5 +1,4 @@
 
-<body style="background-color: lightgreen; color: green;">
 diff```
   + hi, this is where i store my vscode projects when i use ubuntu live
   ```
